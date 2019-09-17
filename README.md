@@ -36,6 +36,9 @@ This is the link you open: **http://127.0.0.1:3000/?token=fd49dff9619830e729c9a5
 
 That is is, now you can just create your notebooks.
 
+## Getting help
+
+You can create Github issues or get in touch in Slack: http://equinor.slack.com/messages/spark
 
 ## Contributing
 
